@@ -1,5 +1,6 @@
-langchain
-openai
+transformers
+sentence-transformers
 faiss-cpu
-PyPDF2
-streamlit
+langchain
+pdfplumber
+torch
