@@ -4,3 +4,4 @@ faiss-cpu
 langchain
 pdfplumber
 torch
+numpy==1.26.4
